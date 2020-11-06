@@ -7,7 +7,7 @@
     <title>Hello</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 </head>
-<body style="background-color:#9AD5F7;">
+<body style="background-color:#C8E3F3;">
     <div class="container">
         <p></p>
         <div class="row">
