@@ -25,7 +25,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <img src="www/img/me/cat1.jpg" class="img-fluid rounded-circle" style="height: 100%;width: 100%;"/>
+                        <img src="www/cat1.jpg" class="img-fluid rounded-circle" style="height: 100%;width: 100%;"/>
                     </div>
                 </div>
                 <div class="row">
